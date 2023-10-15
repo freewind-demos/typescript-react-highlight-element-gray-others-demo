@@ -1,9 +1,9 @@
-pTypeScript React E2E PlayWright TodoMVC Demo
+TypeScript React Highlight Element Gray Others Demo
 =================================
 
-使用`npm init playwright`时自动生成的`demo-todo-app.spec.ts`来测试。
+让某个元素高亮，同时让其它所有元素变灰
 
-使用远程的`https://demo.playwright.dev/todomvc`
+参考：https://jsfiddle.net/qc2um/
 
 ```
 npm install

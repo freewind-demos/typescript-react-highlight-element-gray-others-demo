@@ -1,6 +1,3 @@
 node_modules/
 public/bundle.js
 dist/
-/test-results/
-/playwright-report/
-/playwright/.cache/

@@ -1,0 +1,24 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.highlight {
+    position: relative;
+}
+
+.gray {
+    opacity: 0.5;
+    background-color: black;
+    animation-name: gray;
+    animation-duration: 0.5s;
+}
+
+@keyframes gray {
+    from {
+        background-color: unset;
+    }
+    to {
+        background-color: black;
+    }
+}
